@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+seaborn       # optional for quick visuals (but main plots below use matplotlib)
+streamlit
+Pillow
+tqdm
+nuscenes-devkit
+jupyter
+shapely>=2.0.0
+tqdm
+faiss-cpu
+sentence-transformers
+streamlit
+transformers
+torch
+accelerate
+gpt4all

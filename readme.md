@@ -5,6 +5,9 @@
       streamlit run drivelm_streamlit.
       
 Additional Runs:      
+
+Please add "sweeps" folder in data/nuscenes. Link: https://www.nuscenes.org/nuscenes .Please use the NuScenes-mini split (v1.0). 
+
 1. To preapare the dataset:
       python scrpit/prepare_datset.py 
 2. To run the analysis:
